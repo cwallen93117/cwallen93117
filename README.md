@@ -1,0 +1,2 @@
+- Hi, I'm Charles Allen, among other things I'm working on open source projects for hang gliding, CNC, and 3d printers.
+- 📫 You can PM me throught the Github platform.
