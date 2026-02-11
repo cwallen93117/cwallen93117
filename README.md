@@ -1,2 +1,2 @@
-- Hi, I'm Charles Allen, among other things I'm working on open source projects for hang gliding, CNC, and 3d printers.
+- Hi, I'm Charles Allen, this is my personal github, I'm working on open source projects for hang gliding, CNC, and 3d printers. For work I run BTCS Inc. which is focused on building in the on-chain digital economy, e.g. Ethereum, etc.
 - 📫 You can PM me throught the Github platform.
